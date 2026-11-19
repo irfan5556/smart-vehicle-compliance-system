@@ -40,3 +40,4 @@ services:
           type: web
           name: vehicle-compliance-backend
           property: host
+
